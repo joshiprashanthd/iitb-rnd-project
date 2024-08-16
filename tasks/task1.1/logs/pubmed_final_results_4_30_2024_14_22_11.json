@@ -1,0 +1,25 @@
+{
+    "model": "LLaMA38B",
+    "dataset_name": "pubmed_final",
+    "time": "4_30_2024_14_22_11",
+    "655": {
+        "query": "Does the enteral feeding advancement affect short-term outcomes in very low birth weight infants?",
+        "answer": "Yes"
+    },
+    "115": {
+        "query": "Does lung ischemia and reperfusion have an impact on coronary flow?",
+        "answer": "Yes."
+    },
+    "26": {
+        "query": "Amblyopia: is visual loss permanent?",
+        "answer": "Yes, amblyopia can be permanent if left untreated or undertreated."
+    },
+    "760": {
+        "query": "Could ESC (Electronic Stability Control) change the way we drive?",
+        "answer": "Yes."
+    },
+    "282": {
+        "query": "Should ascitis volume and anthropometric measurements be estimated in hospitalized alcoholic cirrotics?",
+        "answer": "Yes, yes."
+    }
+}

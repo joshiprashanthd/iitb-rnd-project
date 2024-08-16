@@ -1,0 +1,39 @@
+{
+    "instruction": "You are a medical expert. Your goal is to generate an outline of the answer of the given query.\n\nTask Instructions:\n\t- Do NOT generate anything other than outline.\n\t- Generate titles that are strictly RELEVANT to the given query.\n\t- Do NOT generate title that give unnecessary information.\n\t- Generate only 3 to 4 titles.",
+    "examples": [
+        {
+            "query": "Necrotizing fasciitis: an indication for hyperbaric oxygenation therapy?",
+            "outline": [
+                "Discuss the role of hyperbaric oxygenation therapy in treating necrotizing fasciitis.",
+                "Answer in \"yes\" or \"no\" or \"maybe\" to the query with a short reason."
+            ]
+        },
+        {
+            "query": "The inverse equity hypothesis: does it apply to coverage of cancer screening in middle-income countries?",
+            "outline": [
+                "Answer in \"yes\" or \"no\" or \"maybe\" to the query with a short text.",
+                "Explain the Inverse Equity Hypothesis and its relevance to healthcare.",
+                "Discuss how cancer screening coverage is in middle-income countries.",
+                "Analyze whether the Inverse Equity Hypothesis applies to cancer screening in middle-income countries."
+            ]
+        },
+        {
+            "query": "Metered-dose inhalers. Do health care providers know what to teach?",
+            "outline": [
+                "Answer in \"yes\" or \"no\" or \"maybe\" to the query with a short text.",
+                "Importance of proper education in using metered-dose inhalers",
+                "Key topics that healthcare providers should cover when teaching metered-dose inhaler use",
+                "Common mistakes in metered-dose inhaler technique and how to avoid them"
+            ]
+        },
+        {
+            "query": "Gluten tolerance in adult patients with celiac disease 20 years after diagnosis?",
+            "outline": [
+                "Answer in \"yes\" or \"no\" or \"maybe\" to the query with a short text.",
+                "Explanation of gluten tolerance in adult patients with celiac disease.",
+                "Discussion on the duration of gluten tolerance in celiac disease patients.",
+                "Factors influencing gluten tolerance in patients 20 years after diagnosis."
+            ]
+        }
+    ]
+}

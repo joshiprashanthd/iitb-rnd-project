@@ -1,0 +1,25 @@
+{
+    "model": "Mixtral8x7B",
+    "dataset_name": "pubmed_final",
+    "time": "4_30_2024_12_20_5",
+    "655": {
+        "query": "Does the enteral feeding advancement affect short-term outcomes in very low birth weight infants?",
+        "answer": "Yes, enteral feeding advancement can affect short-term outcomes in very low birth weight infants by reducing the risk of necrotizing enterocolitis and improving nutrition absorption."
+    },
+    "115": {
+        "query": "Does lung ischemia and reperfusion have an impact on coronary flow?",
+        "answer": "Yes, lung ischemia and reperfusion can have an impact on coronary flow, as it can cause systemic inflammation and oxidative stress, which can affect the entire circulatory system, including the coronary circulation."
+    },
+    "26": {
+        "query": "Amblyopia: is visual loss permanent?",
+        "answer": "No, visual loss due to amblyopia can often be improved with treatment, especially if started early."
+    },
+    "760": {
+        "query": "Could ESC (Electronic Stability Control) change the way we drive?",
+        "answer": "Yes, ESC can change the way we drive by improving vehicle stability and helping to prevent skidding during abrupt maneuvers or slippery conditions, potentially leading to safer driving habits."
+    },
+    "282": {
+        "query": "Should ascitis volume and anthropometric measurements be estimated in hospitalized alcoholic cirrotics?",
+        "answer": "Yes, assessing ascites volume and anthropometric measurements can help monitor disease progression and guide treatment in hospitalized alcoholic cirrhotics."
+    }
+}

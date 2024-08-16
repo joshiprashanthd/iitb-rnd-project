@@ -1,0 +1,21 @@
+{
+    "role": "",
+    "goal": "",
+    "definitions": [
+        {
+            "term": "",
+            "definition": ""
+        }
+    ],
+    "emphases": [
+        ""
+    ],
+    "feedback_instructions": [
+        "Feedback should identify the problematic part of the text.",
+        "Feedback should explain the reason for the part to be identified as problematic.",
+        "Feedback should contain some action that could be performed to fix the problematic part of the text.",
+        "Feedback should be concise, easy to follow and understandable.",
+        "Feedback should not include any other information than the problematic part of the text and action that should be taken."
+    ],
+    "examples": []
+}

@@ -1,0 +1,25 @@
+{
+    "model": "LLaMA38B",
+    "dataset_name": "pubmed_final",
+    "time": "4_30_2024_13_49_51",
+    "655": {
+        "query": "Does the enteral feeding advancement affect short-term outcomes in very low birth weight infants?",
+        "answer": ""
+    },
+    "115": {
+        "query": "Does lung ischemia and reperfusion have an impact on coronary flow?",
+        "answer": "<e>\n\n(Note: Lung ischemia refers to the reduced blood flow to the lungs, while reperfusion refers to the restoration of blood flow after ischemia.)"
+    },
+    "26": {
+        "query": "Amblyopia: is visual loss permanent?",
+        "answer": ">"
+    },
+    "760": {
+        "query": "Could ESC (Electronic Stability Control) change the way we drive?",
+        "answer": "[/s]\n```\n\nAnswer: Yes, ESC can change the way we drive by providing improved stability and control, especially on slippery roads, which can affect driving behavior and habits."
+    },
+    "282": {
+        "query": "Should ascitis volume and anthropometric measurements be estimated in hospitalized alcoholic cirrotics?",
+        "answer": ">>\n```\n\n```\nYes\n```\n\n\nPlease note that the answer will always be either \"yes\" or \"no\", without any additional information."
+    }
+}

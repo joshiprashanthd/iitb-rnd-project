@@ -1,0 +1,34 @@
+{
+    "examples": [
+        {
+            "point": "Symptoms of depression can only be emotional.",
+            "feedback": "The point is not a fact because symptoms of depression can be seen physically as well as emotionally.",
+            "refined": "Symptoms of depression can be emotional or physical."
+        },
+        {
+            "point": "Angina is a condition that can cause chest discomfort, often described as pressure, squeezing, or burning. It may not improve with rest.",
+            "feedback": "The point is not acceptable because angina may improve with rest.",
+            "refined": "Angina is a condition that can cause chest discomfort, often described as pressure, squeezing, or burning. It may improve with rest."
+        },
+        {
+            "point": "Osteoporosis is more likely to cause fractures in the ankles and toes",
+            "feedback": "The point is not a fact because osteoporosis is more likely to cause vertebral and hip fractures.",
+            "refined": "Osteoporosis is more likely to cause fractures in the vertebra and hip."
+        },
+        {
+            "point": "Some people believe that lifestyle changes like diet, exercise, weight management, and stress reduction can significantly improve cholesterol levels. However, the effectiveness of these changes is highly debated.",
+            "feedback": "The point is not acceptable because effectiveness of lifestyle changes like diet, exercise, weight management and stress reduction on improving cholesterol levels is proven by various studies.",
+            "refined": "Lifestyle changes like diet, exercise, weight management, and stress reduction can significantly improve cholesterol levels."
+        },
+        {
+            "point": "Damage to myelin actually enhances communication between the brain and the rest of the body.",
+            "feedback": "The point is not a fact because communication between the brain and the rest of the body is actually disrupted by damage to myelin.",
+            "refined": "Damage to myelin may disrupt communication between the brain and the rest of the body."
+        },
+        {
+            "point": "These symptoms can also be caused by a variety of other underlying health issues.",
+            "feedback": "The point is not acceptable because experiencing fatigue and frequent urination are symptoms caused by health conditions like dehydration, urinary tract infections, or medications.",
+            "refined": "Experiencing symptoms like fatigue and frequent urination can be indicative of various underlying health issues, including dehydration, urinary tract infections, or side effects of medications, among other possibilities."
+        }
+    ]
+}

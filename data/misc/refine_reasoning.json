@@ -1,0 +1,61 @@
+{
+    "examples": [
+        {
+            "points": [
+                "Stomach muscles churn food with gastric juices (acid & enzymes) to create chyme.",
+                "Waste products are eliminated through the rectum as feces.",
+                "Chewing breaks down food. Saliva starts carbohydrate digestion.",
+                "Water is absorbed, forming stool from leftover material.",
+                "Pancreatic enzymes and bile further break down chyme. Nutrients are absorbed into the bloodstream.",
+                "Food (bolus) travels down the esophagus via muscle contractions."
+            ],
+            "feedback": "The logical order of the points is wrong. In point 1, we chew and break the food into fragments and saliva starts carbohydrate digestion. In point 2, saliva infused food goes through the esophagus via muscle contractions. In point 3, the food is mixed with gastric juices to create chyme. In point 4, pancreatic enzymes further break down chyme and nutrients are absorbed into the bloodstream. In point 5, stool gets formed from material after absorption of water. In point 6, waste products are eliminated through the recturm as feces.",
+            "refined_points": [
+                "Chewing breaks down food. Saliva starts carbohydrate digestion.",
+                "Food (bolus) travels down the esophagus via muscle contractions.",
+                "Stomach muscles churn food with gastric juices (acid & enzymes) to create chyme.",
+                "Pancreatic enzymes and bile further break down chyme. Nutrients are absorbed into the bloodstream.",
+                "Water is absorbed, forming stool from leftover material.",
+                "Waste products are eliminated through the rectum as feces."
+            ]
+        },
+        {
+            "points": [
+                "The surgical incision is carefully closed with sutures.",
+                "Using a scalpel, an incision is made at the predetermined site.",
+                "The affected area is sterilized with an antiseptic solution.",
+                "The surgeon identifies and exposes the affected area.",
+                "Any bleeding is controlled and the surgical field is cleared.",
+                "The patient is given medication to induce general anesthesia."
+            ],
+            "feedback": "The order of these steps is incorrect. Here's a breakdown of why and the correct sequence: The patient must be under anesthesia before starting the surgery. The affected area should be sterilized before the incision is made.  The surgeon would identify and expose the area before making the incision. Bleeding would be controlled after the incision is made. Finally, the incision is closed at the end of the procedure.",
+            "refined_points": [
+                "The patient is given medication to induce general anesthesia.",
+                "The affected area is sterilized with an antiseptic solution.",
+                "The surgeon identifies and exposes the affected area.",
+                "Using a scalpel, an incision is made at the predetermined site.",
+                "Any bleeding is controlled and the surgical field is cleared.",
+                "The surgical incision is carefully closed with sutures."
+            ]
+        },
+        {
+            "points": [
+                "The medication is administered via an intravenous (IV) line.",
+                "A suitable blood vessel (usually in the arm) is located.",
+                "A blood pressure cuff and tourniquet are applied to make veins visible.",
+                "The area is cleansed with alcohol for sterility.",
+                "The prescribing doctor orders the medication and dosage.",
+                "The needle is carefully inserted into the vein."
+            ],
+            "feedback": "The points are out of order. The medication needs to be ordered before it can be administered. The nurse needs to locate a vein and cleanse the area before inserting the needle.",
+            "refined_points": [
+                "The prescribing doctor orders the medication and dosage.",
+                "A suitable blood vessel (usually in the arm) is located.",
+                "A blood pressure cuff and tourniquet are applied to make veins visible.",
+                "The area is cleansed with alcohol for sterility.",
+                "The needle is carefully inserted into the vein.",
+                "The medication is administered via an intravenous (IV) line."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "instruction": "You are a medical expert. Your goal is to generate an outline of the answer of the given query.\n\nTask Instructions:\n\t- Do NOT generate anything other than outline.\n\t- Generate titles that are strictly RELEVANT to the given query.\n\t- Do NOT generate title that give unnecessary information.\n\t- Generate only 3 to 4 titles.",
+    "examples": [
+        {
+            "query": "What are the diagnostic criteria for Type 2 diabetes?",
+            "outline": [
+                "List various diagnostic criteria.",
+                "Discuss why each diagnostic criteria is necessary"
+            ]
+        },
+        {
+            "query": "How does chronic obstructive pulmonary disease (COPD) impact respiratory function?",
+            "outline": [
+                "Explain how the COPD impact respiratory function.",
+                "Discuss why COPD impacts repiratory function."
+            ]
+        },
+        {
+            "query": "What are the signs and symptoms of a heart attack?",
+            "outline": [
+                "List the common signs and symptoms of a heart attack.",
+                "Explain how signs and symptoms can emerge."
+            ]
+        },
+        {
+            "query": "What is the primary mechanism by which aortic stenosis affects the cardiovascular system?",
+            "outline": [
+                "State the primary mechanism",
+                "Discuss what happens in the primary mechanism"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,329 @@
+{
+    "model": "Mixtral8x7B",
+    "dataset_name": "medcoq_sample",
+    "time": "5_6_2024_14_1_18",
+    "1": {
+        "query": "What are the key factors that influence the character of the pulse?",
+        "answer": "The character of the pulse can be influenced by factors such as an individual's heart rate, rhythm, volume, and condition of their blood vessels. Changes in these factors due to conditions like hypertension, heart disease, or anxiety can affect the pulse character."
+    },
+    "2": {
+        "query": "What is the recommended approach for accurately assessing the character of the pulse in the cardiovascular system?",
+        "answer": "The recommended approach for accurately assessing the character of the pulse in the cardiovascular system includes evaluating its rate, rhythm, volume, and quality (regularity, pulsatility, and any distinct points of maximal impulse) during both systole and diastole. Palpation at various sites, such as the carotid, radial, brachial, and femoral arteries, can provide additional insights."
+    },
+    "3": {
+        "query": "Which conditions commonly lead to a bounding pulse, characterized by high amplitude and wide pulse pressure?",
+        "answer": "A bounding pulse, with high amplitude and wide pulse pressure, is commonly associated with conditions that cause increased stroke volume and/or reduced peripheral resistance. Examples include hypertension, fever, anxiety, hyperthyroidism, and aortic regurgitation."
+    },
+    "4": {
+        "query": "What is the role of aortic stenosis in ventricular emptying?",
+        "answer": "Aortic stenosis can hinder ventricular emptying by increasing resistance to blood flow out of the left ventricle, leading to decreased cardiac output and potential heart failure if left untreated."
+    },
+    "5": {
+        "query": "What is the primary mechanism by which aortic stenosis affects the cardiovascular system?",
+        "answer": "Aortic stenosis primarily affects the cardiovascular system by increasing resistance to blood flow out of the heart, leading to left ventricular hypertrophy and eventually heart failure if not treated."
+    },
+    "6": {
+        "query": "How does the venous pulse differ from the arterial pulse in terms of peaks during the cardiac cycle?",
+        "answer": "The venous pulse has fewer and less prominent peaks during the cardiac cycle, typically only two (at ventricular systole and ventricular diastole), compared to the arterial pulse which has four distinct peaks (at ventricular contraction, closure of the aortic valve, opening of the aortic valve, and diastole)."
+    },
+    "7": {
+        "query": "What factors influence the height of the jugular venous pulse?",
+        "answer": "The height of the jugular venous pulse can be influenced by factors such as blood volume, heart rate, intravascular pressure, and patient's position. Increased blood volume or pressure can elevate the pulse height, while decreased volume or pressure can lower it. Additionally, an elevated heart rate can cause a more rapid rise and fall of the pulse, while patient position can affect venous pressure and thus, pulse height."
+    },
+    "8": {
+        "query": "What is a characteristic feature of tricuspid regurgitation in the cardiovascular system?",
+        "answer": "Tricuspid regurgitation is characterized by the backward flow of blood from the right ventricle into the right atrium during contraction, which can lead to various symptoms such as fatigue, shortness of breath, and swelling in the legs."
+    },
+    "9": {
+        "query": "Where is the normal position of the apex beat?",
+        "answer": "The normal position of the apex beat is usually located in the left fifth intercostal space, close to the midclavicular line."
+    },
+    "10": {
+        "query": "What is the physical exam finding seen in the context of volume overload due to mitral or aortic regurgitation?",
+        "answer": "Presence of pulmonary crackles or rales on auscultation indicates volume overload due to mitral or aortic regurgitation. This is caused by fluid accumulation in the lungs."
+    },
+    "11": {
+        "query": "What is a characteristic physical finding in cardiovascular conditions involving pressure overload, such as aortic stenosis and hypertension?",
+        "answer": "A characteristic physical finding in these conditions is a sustained and forceful left ventricular apical impulse, often described as \"heaving\" or \"tapping,\" due to ventricular hypertrophy from increased pressure overload."
+    },
+    "12": {
+        "query": "What are the manifestations of dyskinetic conditions, such as left ventricular aneurysm, on physical examination of the apex beat?",
+        "answer": "Dyskinetic conditions, such as left ventricular aneurysm, may manifest as a parasternal heave, a displaced and diffuse apex beat, and occasionally, a systolic thrill on physical examination. Additionally, a \"summation gallop\" (S4) may be present, indicating severe ventricular dysfunction."
+    },
+    "13": {
+        "query": "What clinical sign may be suggestive of right ventricular hypertrophy?",
+        "answer": "A \"loud P2\" or a \"right ventricular heave\" may suggest right ventricular hypertrophy. These signs are detected through cardiac auscultation and physical examination."
+    },
+    "14": {
+        "query": "What is the appropriate use of the diaphragm during cardiac auscultation?",
+        "answer": "The diaphragm of the stethoscope is used for hearing high-pitched sounds, such as heart valve sounds, during cardiac auscultation. It should be placed firmly on the skin with minimal pressure."
+    },
+    "15": {
+        "query": "What type of stethoscope attachment is recommended for detecting low-pitched cardiac noises, such as the mid-diastolic murmur associated with mitral stenosis?",
+        "answer": "A highly sensitive, low-frequency diaphragm attachment is recommended for detecting low-pitched cardiac noises, such as the mid-diastolic murmur associated with mitral stenosis."
+    },
+    "16": {
+        "query": "What is the role of the carotid pulse in timing heart sounds and murmurs?",
+        "answer": "The carotid pulse is used to correlate with heart sounds and murmurs, helping to determine their timing and intensity during the cardiac cycle. It's particularly useful for auscultation-palpation synchrony and evaluating potential hemodynamic significance."
+    },
+    "17": {
+        "query": "How can systolic murmurs aid in diagnosing cardiovascular conditions?",
+        "answer": "Systolic murmurs can help diagnose cardiovascular conditions by indicating abnormal blood flow during systole, which can suggest valvular or structural heart diseases, such as stenosis or regurgitation. Their intensity, pitch, and timing provide valuable clues for diagnosis, often confirmed by additional tests like echocardiography."
+    },
+    "18": {
+        "query": "What is the significance of having the patient rolled on to the left side while listening at the apex?",
+        "answer": "Rolling the patient onto their left side, or left lateral decubitus position, allows for better auscultation of the apical heart sounds by improving sound transmission and reducing lung interference."
+    },
+    "19": {
+        "query": "Where do you typically listen for an aortic incompetence murmur?",
+        "answer": "At the upper left sternal border, radiating to the neck, often with a wide pulse pressure. Murmur intensity increases during expiration and with leg raising."
+    },
+    "20": {
+        "query": "What are the common electrocardiographic findings associated with proximal occlusion of the RCA?",
+        "answer": "In proximal occlusion of the right coronary artery (RCA), ECG may show ST elevation in leads II, III, and aVF, and Q waves may develop over time, indicating an inferior wall MI. Additionally, RCA occlusion can cause posterior wall MI, which may not be apparent on a standard 12-lead ECG, but right-sided leads (V3R-V6R) may reveal ST elevations, helping diagnose posterior MI."
+    },
+    "21": {
+        "query": "Where is the SA node specifically located in the cardiovascular system?",
+        "answer": "The SA node, or sinoatrial node, is specifically located in the right atrium of the heart, near the entrance of the superior vena cava."
+    },
+    "22": {
+        "query": "What factors regulate the depolarization rate of specialized atrial cells in the heart",
+        "answer": "The depolarization rate of specialized atrial cells in the heart is regulated by factors such as the autonomic nervous system, hormones like adrenaline, and electrolyte levels, particularly calcium and potassium ions. Additionally, the presence of certain medications or drugs can also affect this rate."
+    },
+    "23": {
+        "query": "How does depolarization normally travel through the atria?",
+        "answer": "Depolarization travels through the atria via the spread of an electrical impulse, starting at the sinoatrial node and propagating through the muscle cells to reach the atrioventricular node. This process allows for coordinated contraction of the atria, enabling blood to be pumped efficiently into the ventricles."
+    },
+    "24": {
+        "query": "What distinguishes the His-Purkinje system from other myocardial tissues in terms of electrical conduction?",
+        "answer": "The His-Purkinje system has specialized cardiac muscle cells that enable faster and more efficient electrical conduction than other myocardial tissues, allowing for synchronized contraction of the heart ventricles. Its unique structure and ion channel properties facilitate rapid impulse transmission, distinguishing it from other myocardial tissues."
+    },
+    "25": {
+        "query": "How does the His-Purkinje system contribute to efficient cardiac function?",
+        "answer": "The His-Purkinje system efficiently conducts electrical impulses, ensuring simultaneous contraction of the heart's chambers, promoting efficient blood pumping and overall cardiac function."
+    },
+    "26": {
+        "query": "Which structures within the cardiovascular system receive innervation from adrenergic nerves from the cervical sympathetic chain?",
+        "answer": "The structures within the cardiovascular system that receive innervation from adrenergic nerves from the cervical sympathetic chain include the heart and blood vessels, particularly the vessels supplying the head and neck (i.e., cerebral and facial circulation)."
+    },
+    "27": {
+        "query": "What are the effects of activating \u00ce\u00b21-adrenoceptors in the heart?",
+        "answer": "Activating \u03b21-adrenoceptors in the heart increases heart rate, contractility, and conduction velocity, while decreasing rest intervals between contractions. Prolonged activation can lead to harmful effects such as arrhythmias and cardiac dysfunction."
+    },
+    "28": {
+        "query": "Which nerves carry parasympathetic preganglionic fibers and sensory fibers to the heart?",
+        "answer": "The vagus nerve (cranial nerve X) carries parasympathetic preganglionic fibers, while the sensory fibers to the heart are carried by both the vagus nerve and the sympathetic trunk's cardiac branches."
+    },
+    "29": {
+        "query": "Which type of receptors are involved in the innervation of the AV and SA nodes by cholinergic nerves?",
+        "answer": "The types of receptors involved in the innervation of the AV and SA nodes by cholinergic nerves are muscarinic acetylcholine receptors, specifically the M2 subtype."
+    },
+    "30": {
+        "query": "What is the dominant influence on the heart rate under resting conditions?",
+        "answer": "The dominant influence on heart rate under resting conditions is the autonomic nervous system, specifically the parasympathetic nervous system, which maintains a resting heart rate of around 60-100 beats per minute."
+    },
+    "31": {
+        "query": "How does adrenergic stimulation affect the heart rate in the cardiovascular system?",
+        "answer": "Adrenergic stimulation increases heart rate by activating beta-1 adrenergic receptors, which enhance sympathetic nervous system activity and accelerate heart contractility and rate."
+    },
+    "32": {
+        "query": "What is a potential consequence of disease states on the cardiovascular system?",
+        "answer": "Disease states can lead to cardiovascular complications such as hypertension, heart failure, or even heart attacks, depending on the specific disease and individual patient factors."
+    },
+    "33": {
+        "query": "What effect does diabetes mellitus have on heart rate variability?",
+        "answer": "Diabetes mellitus can decrease heart rate variability, which may increase the risk of cardiovascular diseases. This is due to autonomic neuropathy, a common complication of diabetes."
+    },
+    "34": {
+        "query": "What is the role of intercalated discs in facilitating conduction within cardiac tissue?",
+        "answer": "Intercalated discs connect cardiomyocytes, facilitating electrical and mechanical coupling. They contain gap junctions, which allow ions to flow directly between cells, enabling rapid electrical conduction necessary for synchronized cardiac muscle contraction."
+    },
+    "35": {
+        "query": "What gives the striated appearance to myofibrils?",
+        "answer": "Myofibrils have a striated appearance due to the organization of their contractile proteins, actin and myosin, into repeating units called sarcomeres."
+    },
+    "36": {
+        "query": "How are actin filaments arranged within the sarcomere?",
+        "answer": "Actin filaments are arranged in parallel rows within the sarcomere, forming the thin filaments that overlap with the thick filaments composed of myosin. This organization allows for muscle contraction through the sliding filament theory."
+    },
+    "37": {
+        "query": "When do the cross-links between actin and myosin undergo attachment and detachment in the cardiac cycle?",
+        "answer": "The cross-links between actin and myosin undergo attachment during the isovolumetric contraction phase and detachment during the isovolumetric relaxation phase of the cardiac cycle."
+    },
+    "38": {
+        "query": "Why is a constant supply of oxygen crucial for cardiac muscle function?",
+        "answer": "A constant supply of oxygen is crucial for cardiac muscle function because it needs it for aerobic respiration, which produces the energy (ATP) required for continuous muscle contractions. Interruption or reduction of oxygen supply can lead to irreversible damage and heart failure."
+    },
+    "39": {
+        "query": "How does coronary artery disease affect blood supply to the myocardium?",
+        "answer": "Coronary artery disease causes narrowing or blockage of coronary arteries, reducing blood flow and oxygen delivery to the myocardium (heart muscle). This can lead to symptoms like angina (chest pain) and, if severe or prolonged, can cause myocardial infarction (heart attack) and damage to the heart muscle."
+    },
+    "40": {
+        "query": "What initiates the contraction of cardiac muscle cells?",
+        "answer": "The contraction of cardiac muscle cells is initiated by an action potential, which triggers the release of calcium ions that bind to troponin C, leading to muscle contraction. This process is regulated by the autonomic nervous system."
+    },
+    "41": {
+        "query": "How is the force of contraction increased in the cardiovascular system?",
+        "answer": "The force of contraction in the cardiovascular system can be increased through various factors such as increased sympathetic nervous system activity (which releases hormones like adrenaline), increased calcium ion concentration, or alterations in sarcomere length. These changes can lead to an increased strength of heart muscle contraction, resulting in increased cardiac output."
+    },
+    "42": {
+        "query": "What is the definition of cardiac output?",
+        "answer": "Cardiac output is the volume of blood that the heart pumps through the circulatory system in one minute. It's calculated by multiplying the heart rate by the stroke volume."
+    },
+    "43": {
+        "query": "What are the key determinants of cardiac output?",
+        "answer": "Cardiac output is determined by stroke volume and heart rate. Stroke volume is the amount of blood pumped per beat, while heart rate is the number of heartbeats per minute."
+    },
+    "44": {
+        "query": "What are the potential consequences of proximal occlusion of the right coronary artery (RCA) on the heart's electrical activity?",
+        "answer": "Proximal occlusion of the RCA can lead to right ventricular infarction and potentially life-threatening arrhythmias, such as ventricular tachycardia or fibrillation, due to the loss of electrical activation of the right ventricle."
+    },
+    "45": {
+        "query": "What is the primary mechanism of action of atrial natriuretic peptide (ANP)?",
+        "answer": "ANP primarily lowers blood pressure by promoting vasodilation, reducing sodium reabsorption in the kidneys, and increasing natriuresis and diuresis."
+    },
+    "46": {
+        "query": "What triggers the production of Brain Natriuretic Peptide (BNP) in the cardiovascular system? BNP is a hormone secreted by the heart in response to increased cardiac workload and volume overload. When the ventricles are stretched, as in heart failure, BNP production is stimulated to promote natriuresis (increased sodium excretion), diuresis, and vasodilation. These effects help reduce intravascular volume and blood pressure, alleviating the strain on the heart and promoting fluid balance in the body.",
+        "answer": "Brain Natriuretic Peptide (BNP) is triggered by increased cardiac workload and volume overload, particularly in heart failure when the ventricles are stretched, to promote natriuresis, diuresis, and vasodilation, thereby reducing intravascular volume and blood pressure."
+    },
+    "47": {
+        "query": "What is a significant effect of the enzyme neprilysin on the cardiovascular system?",
+        "answer": "Neprilysin plays a significant role in the cardiovascular system by degrading various vasoactive peptides, including angiotensin II, bradykinin, and natriuretic peptides, thereby regulating blood pressure, fluid balance, and cardiac remodeling. Inhibition of neprilysin can lead to increased levels of natriuretic peptides, promoting vasodilation and reduced preload, which is beneficial in treating heart failure."
+    },
+    "48": {
+        "query": "What is the primary function of the right atrium (RA) in the cardiovascular system?",
+        "answer": "The right atrium's primary function is to receive deoxygenated blood from the systemic circulation via the superior and inferior vena cava, and then pump it into the right ventricle through the tricuspid valve."
+    },
+    "49": {
+        "query": "How does blood become oxygenated in the cardiovascular system?",
+        "answer": "Blood becomes oxygenated in the lungs through the process of diffusion, where oxygen moves from alveoli to capillaries, binding to hemoglobin in red blood cells."
+    },
+    "50": {
+        "query": "What is the role of the left ventricle (LV) in the cardiovascular system?",
+        "answer": "The left ventricle (LV) is the primary pumping chamber of the heart, responsible for forcefully ejecting oxygenated blood into the systemic circulation, thereby supplying oxygen and nutrients to the body's tissues."
+    },
+    "51": {
+        "query": "During the contraction phase of the cardiac cycle, what happens to the tricuspid and mitral valves?",
+        "answer": "During the contraction phase of the cardiac cycle, the tricuspid valve closes preventing backflow of blood into the right atrium, while the mitral (bicuspid) valve remains closed as it only opens during the relaxation phase."
+    },
+    "52": {
+        "query": "Which valves open during ventricular contraction (systole)?",
+        "answer": "The aortic and pulmonary valves open during ventricular contraction (systole), allowing oxygenated and deoxygenated blood to be pumped into the systemic and pulmonary circulation, respectively."
+    },
+    "53": {
+        "query": "During which phase of the cardiac cycle do the pulmonary and aortic valves close?",
+        "answer": "The pulmonary valve closes at the beginning of diastole, and the aortic valve closes at the beginning of systole. These events occur during the changeover phases between systole and diastole, not strictly within either phase."
+    },
+    "54": {
+        "query": "Which valves open during diastole in the cardiovascular system?",
+        "answer": "The mitral (bicuspid) and tricuspid valves open during diastole, allowing blood to flow from the atria to the ventricles in the cardiovascular system."
+    },
+    "55": {
+        "query": "What is the primary function of the capillary bed in the cardiovascular system?",
+        "answer": "The primary function of capillary beds in the cardiovascular system is to enable the exchange of oxygen, nutrients, waste products, and other substances between the blood and the body's cells. This occurs through the process of diffusion, facilitated by the thin walls of the capillaries and their large surface area."
+    },
+    "56": {
+        "query": "What is the primary structural feature of central arteries like the aorta?",
+        "answer": "The primary structural feature of central arteries like the aorta is their thick, elastic walls that allow them to withstand high pressure and recoil after each heartbeat, maintaining blood flow throughout the body."
+    },
+    "57": {
+        "query": "What role does the compliant aorta play in maintaining blood pressure and blood flow during the cardiac cycle?",
+        "answer": "The compliant aorta helps maintain blood pressure by expanding when blood is forcefully ejected from the heart, absorbing some of the force and then slowly releasing it, which helps maintain a steady pressure. It also contributes to blood flow by acting as a reservoir, accommodating changes in blood volume during the cardiac cycle and promoting continuous flow to peripheral tissues."
+    },
+    "58": {
+        "query": "How does the 'Windkessel' effect impact blood pressure and cardiac function?",
+        "answer": "The 'Windkessel' effect, caused by arterial stiffness, increases systolic blood pressure and decreases diastolic pressure, reducing coronary perfusion and overall cardiac function. It can also lead to increased pulse pressure and cardiac afterload, potentially impairing cardiac efficiency and oxygen supply."
+    },
+    "59": {
+        "query": "Which type of vessels contribute most significantly to systemic vascular resistance?",
+        "answer": "Arterioles contribute most significantly to systemic vascular resistance due to their small lumen and thick muscular walls, which allow them to regulate blood flow and resistance effectively."
+    },
+    "60": {
+        "query": "How is the tone of resistance vessels controlled within the cardiovascular system?",
+        "answer": "The tone of resistance vessels in the cardiovascular system is controlled by a complex interplay of neural and local factors, including autoregulation, vasoactive substances like nitric oxide and endothelin, and physical factors such as pressure and flow."
+    },
+    "61": {
+        "query": "Which receptors are responsible for neurogenic constriction of vascular smooth muscle?",
+        "answer": "The receptors responsible for neurogenic constriction of vascular smooth muscle are primarily alpha-1 adrenergic receptors, which are activated by catecholamines like norepinephrine released from postganglionic sympathetic neurons."
+    },
+    "63": {
+        "query": "What is one key feature that distinguishes supraventricular tachycardia (SVT) from other arrhythmias?",
+        "answer": "One key feature that distinguishes SVT from other arrhythmias is its origin within the atria or atrioventricular node, typically causing regular and rapid heartbeats, usually over 100 beats per minute."
+    },
+    "64": {
+        "query": "What is the most common underlying mechanism responsible for supraventricular tachycardia (SVT)?",
+        "answer": "The most common underlying mechanism responsible for SVT is an abnormal reentry circuit, often involving the atrioventricular (AV) node or an accessory pathway."
+    },
+    "65": {
+        "query": "What is the general order of administration for intravenous adenosine in relation to vagal maneuvers? The context clearly states that intravenous adenosine is \"not normally given until after vagal manoeuvres have been tried.\" This suggests that vagal maneuvers are considered the first-line treatment, and intravenous adenosine is reserved for situations where these maneuvers have failed to achieve the desired effect.",
+        "answer": "Vagal maneuvers should be attempted first, followed by intravenous adenosine if they fail."
+    },
+    "66": {
+        "query": "How can the Valsalva maneuver be enhanced after breath-holding is released?",
+        "answer": "After releasing breath-holding, enhance the Valsalva maneuver by forcibly exhaling with nose pinched and mouth closed, increasing the pressure in the chest and subsequently lowering heart rate and blood pressure."
+    },
+    "67": {
+        "query": "Amidst the various treatment options for stroke prevention in atrial fibrillation, how do oral antiplatelet drugs perform?",
+        "answer": "Oral antiplatelet drugs, such as aspirin, are generally less effective than anticoagulants for stroke prevention in atrial fibrillation, but may still be considered for certain patients at lower risk of stroke. They carry a risk of bleeding, similar to anticoagulants, but without offering the same level of stroke prevention."
+    },
+    "68": {
+        "query": "Why is immediate cardioversion considered risky if not preceded by oral anticoagulation?",
+        "answer": "Immediate cardioversion can dislodge blood clots, potentially causing a stroke if not preceded by oral anticoagulation, which helps prevent blood clots from forming. Therefore, it's considered risky without it."
+    },
+    "69": {
+        "query": "How does Digoxin affect the stroke risk in cardiovascular system?",
+        "answer": "Digoxin, when used for heart failure treatment, may slightly increase stroke risk in certain patients, especially those with irregular heart rhythms like atrial fibrillation. However, its careful usage can still be beneficial for heart function management."
+    },
+    "70": {
+        "query": "What is one of the potential underlying causes of syncope?",
+        "answer": "One potential underlying cause of syncope (fainting) is a decrease in blood flow to the brain, often due to cardiovascular issues like bradycardia or orthostatic hypotension."
+    },
+    "71": {
+        "query": "What is the clinical significance of a family history of sudden death?",
+        "answer": "A family history of sudden death, specifically sudden cardiac death, may indicate an increased genetic susceptibility to cardiac arrhythmias or inherited cardiac conditions, warranting further evaluation and screening measures for at-risk family members."
+    },
+    "72": {
+        "query": "How is hypertrophic cardiomyopathy typically inherited?",
+        "answer": "Hypertrophic cardiomyopathy (HCM) is typically inherited in an autosomal dominant pattern, meaning one copy of the altered gene in each cell is sufficient to cause the disorder."
+    },
+    "73": {
+        "query": "What type of murmur is typically associated with mitral regurgitation?",
+        "answer": "A holosystolic, pansystolic, or holo- and early diastolic murmur, often best heard at the apex, is typically associated with mitral regurgitation."
+    },
+    "74": {
+        "query": "What is a notable characteristic of Long QT syndrome in comparison to other cardiovascular conditions?",
+        "answer": "Long QT syndrome is characterized by a prolonged QT interval on the electrocardiogram, which increases the risk of ventricular arrhythmias and sudden cardiac death, setting it apart from other cardiovascular conditions."
+    },
+    "75": {
+        "query": "What is a notable characteristic of dilated cardiomyopathy?",
+        "answer": "A key characteristic of dilated cardiomyopathy is the enlargement and weakened contraction of the heart's left ventricle, leading to impaired pumping efficiency and, potentially, heart failure."
+    },
+    "76": {
+        "query": "What is the recommended treatment for preventing the recurrence of symptoms in patients with recurrent pericarditis?",
+        "answer": "The recommended treatment for preventing recurrence of symptoms in patients with recurrent pericarditis includes anti-inflammatory drugs such as colchicine, often combined with corticosteroids for refractory cases. Regular follow-ups with a healthcare provider are essential to monitor symptoms and adjust treatment as necessary."
+    },
+    "77": {
+        "query": "What is the efficacy of oral corticosteroids in alleviating acute cardiovascular symptoms?",
+        "answer": "Oral corticosteroids have not been proven to effectively alleviate acute cardiovascular symptoms. They are not recommended for this purpose due to potential side effects and lack of demonstrated benefit."
+    },
+    "78": {
+        "query": "Under what conditions is pericardiocentesis indicated in the management of pericardial effusion?",
+        "answer": "Pericardiocentesis is indicated in pericardial effusion when there is cardiac tamponade or hemodynamic instability, or when there is suspicion of purulent or malignant effusion requiring diagnostic analysis."
+    },
+    "79": {
+        "query": "What is the reason for not considering percutaneous coronary intervention (PCI) as an appropriate treatment in this case?",
+        "answer": "The decision not to consider percutaneous coronary intervention (PCI) as an appropriate treatment could be due to various patient and/or lesion-specific factors, such as high surgical risk, excessive calcium or thrombus burden, or diffuse coronary artery disease, which may not be effectively addressed by PCI and may warrant surgical revascularization or medical management instead."
+    },
+    "80": {
+        "query": "What is the significance of an isoelectric QRS complex in lead aVL?",
+        "answer": "An isoelectric QRS complex in lead aVL may indicate a normal finding or a possible issue with the frontal plane heart axis, such as extreme right axis deviation or inferior myocardial infarction. Further evaluation is necessary to confirm the diagnosis."
+    },
+    "81": {
+        "query": "What is the significance of the QRS complex being negative in aVR lead?",
+        "answer": "A negative QRS complex in aVR lead suggests that the heart's electrical axis is directed away from lead aVR, which can indicate certain cardiac conditions such as left anterior fascicular block or inferior myocardial infarction. However, it's important to interpret this finding in the context of other ECG findings and symptoms for accurate diagnosis."
+    },
+    "82": {
+        "query": "What is the location of the mean vector or axis of depolarization based on the provided electrocardiogram (ECG) findings?",
+        "answer": "The mean vector or axis of depolarization cannot be directly determined from an ECG tracing. However, the frontal plane QRS axis can be estimated using lead I, II, and III or aVL, aVF, and V1."
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "role": "You are a medical expert.",
+    "goal": "Your goal is to check whether the given text is contradicted by any prevalent scientific opinion or not. If the text is contradicted by any prevalent scientific opinion then respond with \"No\" with a feedback. If the text is not contradicted by any prevalent scientific opinion then respond with \"Yes\" with no other text.",
+    "definitions": [
+        {
+            "term": "Prevalent Scientific Opinion",
+            "definition": "Prevalent scientific opinion (or consensus) is the widely accepted view among scientists in a field, based on the current interpretation of the strongest available scientific evidence."
+        }
+    ],
+    "emphases": [
+        "Always generate a \"Response\"",
+        "Strictly follow the format of the examples.",
+        "Always try to find opinions that are within a scientific community. Opinions from the scientific community can be held accountable and are less likely to be based on incorrect assumptions.",
+        "Try to verify the relevance of the opinion's source."
+    ],
+    "feedback_instructions": [
+        "Feedback should identify the problematic part of the text.",
+        "Feedback should explain the reason for the part to be identified as problematic.",
+        "Feedback should contain some action that could be performed to fix the problematic part of the text.",
+        "Feedback should be concise, easy to follow and understandable.",
+        "Feedback should not include any other information than the problematic part of the text and action that should be taken."
+    ],
+    "examples": [
+        {
+            "query": "What is the optimal level of cholesterol, specifically LDL cholesterol?",
+            "text": "Lowering LDL is seen as a way to reduce the risk of plaque buildup in arteries, which can lead to heart disease and stroke.",
+            "cot": "High LDL cholesterol is a well-established risk factor for heart disease. Also some recent research suggests a more complex picture. Other factors like inflammation and particle size of LDL may also influence heart disease risk. Therefore, these recent studies on LDL provides new information regarding other factors that could affect heart disease risk.",
+            "response": "No",
+            "feedback": "Make sure to add other factors of LDL with the original point to provide more nuanced information."
+        },
+        {
+            "query": "On what kind of infections, are antibiotics most effective?",
+            "text": "Antibiotics are effective against bacterial infections by either killing bacteria or inhibiting their growth.",
+            "cot": "Antibiotics are widely considered and proven to remain a crucial tool in fighting bacteria infections. Therefore, there are no recent research suggesting ineffectiveness or any new information about antiobiotics.",
+            "response": "Yes",
+            "feedback": ""
+        },
+        {
+            "query": "Explain the use of Mammograms for breast cancer screening.",
+            "text": "Mammograms can detect breast cancer early, often before symptoms develop, increasing the chances of successful treatment and survival.",
+            "cot": "Mammograms can be a valuable tool for early detection of breast cancer. There's some ongoing debate about the optimal frequency of mammograms and the age to begin screening. While some organizations recommend yearly mammograms starting at 40, others suggest starting at 45 or 50 and considering individual risk factors. A potential downside of mammograms is the possibility of false positives. This means the test might indicate an abnormality that turns out to be benign (not cancerous). Therefore, the recent studies shed new light into the usefulness of mammograms in detecting breast cancer.",
+            "response": "No",
+            "feedback": "Make sure to add other factors of mammograms with the original text to provide more nuanced information."
+        },
+        {
+            "query": "What are gut microbiomes?",
+            "text": "The gut microbiome plays a vital role in many aspects of your health, including digestion, immune function, metabolism, and potentially mood and mental health.",
+            "cot": "Gut microbes help break down food components that our bodies can't digest on their own, like fiber. They also play a role in vitamin synthesis and mineral absorption. Gut microbes influence how our bodies process energy from food and regulate metabolism. Therefore, the text is not contradicted by any recent studies suggestig otherwise.",
+            "response": "Yes",
+            "feedback": ""
+        }
+    ]
+}
